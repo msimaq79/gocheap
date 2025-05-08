@@ -9,7 +9,7 @@
 <body>
     <nav class="navbar">
         <div class="logo">
-            <img src="" alt="Gocheap Logo">
+            <img src="./logo.png" alt="Gocheap Logo">
         </div>
         <ul class="nav-links">
             <li><a href="index.html">Home</a></li>
@@ -20,6 +20,18 @@
     <section class="hero">
         <h1>Your one stop solution to Travel with ease. </h1>
     </section>
-
+    <section class="features">
+        <div class="feature-item">
+            <h2>Feature 1</h2>
+            <p>Description of feature 1.</p>
+        </div>
+        <div class="feature-item">
+            <h2>Feature 2</h2>
+            <p>Description of feature 2.</p>
+        </div>
+        <div class="feature-item">
+            <h2>Feature 3</h2>
+            <p>Description of feature 3.</p>
+        </div>
 </body>
 </html>
